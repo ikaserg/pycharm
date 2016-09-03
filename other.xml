@@ -12,7 +12,7 @@
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
-        <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="C:\Python27\python.exe" value="true" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
