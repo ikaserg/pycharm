@@ -12,6 +12,7 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Drop_ware" type="Python" />
       <mapping pattern="sm_api" type="Python" />
       <mapping pattern="db_connect_remote" type="Python" />
       <mapping pattern="smm_database.sql" type="SQL" />
